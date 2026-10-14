@@ -1,4 +1,4 @@
-export const firebaseConfig = {
+export default {
   apiKey: "AIzaSyDNXF4Sa8jkXLhx9SKSQQwuhqVhgbsFWVw",
   authDomain: "blind-ranking-9cad1.firebaseapp.com",
   projectId: "blind-ranking-9cad1",
